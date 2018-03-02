@@ -16,7 +16,7 @@ var tomatoSauceIngredients = [
 var chocolateBars = [ "snickers", "hundred grand", "kitkat", "skittles"]
 var foo = candyString;
 function addElementToBeginningOfArray(chocolateBars, candyString){
-  return 
+  return [chocolateBars, candyString];
   
 }
 
