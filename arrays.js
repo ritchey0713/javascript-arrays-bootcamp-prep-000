@@ -48,6 +48,11 @@ function removeElementFromBeginningOfArray(array){
   return array.slice(1);
 }
 
+function destructivelyRemoveElementFromEndOfArray(chocolateBars){
+   chocolateBars=chocolateBars.slice(1)
+   return chocolateBars;
+  
+}
 
 
 
