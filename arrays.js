@@ -34,6 +34,6 @@ function destructivelyAddElementToEndOfArray(chocolateBars, candyString){
   return chocolateBars;
 }
 
-function accessElementInArray(chocolateBars[1]){
-  return chocolateBars;
+function accessElementInArray(array, index){
+  return index;
 }
