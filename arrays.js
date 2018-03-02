@@ -13,4 +13,11 @@ var grilledCheeseIngredients = [
 var tomatoSauceIngredients = [
   "tomato", "garlic","olive oil", "basil", "oregano"]
   
-  chocolateBars[ "snickers", "hundred grand", "kitkat", "skittles"]
+var chocolateBars = [ "snickers", "hundred grand", "kitkat", "skittles"]
+
+function addElementToBeginningOfArray(chocolateBars, "milky way"){
+  [... "milky way"]
+  
+}
+
+function destructiveAddElementTOBeginningOfArray(){}
