@@ -35,5 +35,5 @@ function destructivelyAddElementToEndOfArray(chocolateBars, candyString){
 }
 
 function accessElementInArray(array, index){
-  return index;
+  return array[index];
 }
