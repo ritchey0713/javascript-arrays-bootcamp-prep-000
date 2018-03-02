@@ -20,4 +20,6 @@ function addElementToBeginningOfArray(chocolateBars, candyString){
   return [candyString, ...chocolateBars]
   }
 
-function destructiveAddElementTOBeginningOfArray(){}
+function destructiveAddElementTOBeginningOfArray(chocolateBars, candyString){
+  
+}
