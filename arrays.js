@@ -13,4 +13,4 @@ var grilledCheeseIngredients = [
 var tomatoSauceIngredients = [
   "tomato", "garlic","olive oil", "basil", "oregano"]
   
-  
+  chocolateBars[ "snickers", "hundred grand", "kitkat", "skittles"]
